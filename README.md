@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @leezyangg
-- 👀 I’m interested in coding, software testing
-- 🌱 I’m currently learning Java, php, python, mySQL, html..
+- 👀 I’m interested in coding, software design
+- 🌱 I’m currently learning Java, python, and Golang..
 - 💞️ I’m looking to collaborate on developing some free launching projects. 
 - 📫 How to reach me on ziyang8254@gmail.com
 
